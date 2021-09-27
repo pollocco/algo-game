@@ -1,7 +1,7 @@
 CONNOR POLLOCK - CS 325 ANALYSIS OF ALGORITHMS
 HW8: PORTFOLIO PROJECT - README.txt
 
-To play the GUI-version of the game, please go to: URL
+To play the GUI-version of the game, please go to: https://algo-game.pollocco.repl.co
 (Requires cookies! [Session is used for saving some variables]).
 
 Refresh the page if you'd like to start over/play again.
